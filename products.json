@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":" பாதம் கொட்டை 250g",
+        "price": 200,
+        "image": "image/Almond.png"
+    },
+    {
+        "id": 2,
+        "name":" முந்திரிப்பருப்பு 250g",
+        "price": 250,
+        "image": "image/cashewnut.png"
+    },
+    {
+        "id": 3,
+        "name":" பிஸ்தா பருப்பு 250g ",
+        "price": 290,
+        "image": "image/pista.png"
+    },
+    {
+        "id": 4,
+        "name":" கருப்பு உலர் திராட்சை 250g",
+        "price": 200,
+        "image": "image/black_dry_grapes.png"
+    },
+    {
+        "id": 5,
+        "name":" உலர் திராட்சை 250g",
+        "price": 300,
+        "image": "image/green_dry_grapes.png"
+    },
+    {
+        "id": 6,
+        "name":" கருப்பு பேரிச்சம் பழம் 500g ",
+        "price": 200,
+        "image": "image/black_dates.png"
+    }
+    
+]
