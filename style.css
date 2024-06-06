@@ -62,12 +62,15 @@ header{
     font-size: small;
 }
 .listProduct .item button{
-    background-color: #353432;
-    color: #eee;
-    border: none;
+    background-color:#eee ;
+     color:  #353432; 
+    border: black 2px solid;
+    width: 150px;
+    height: 35px;
     padding: 5px 10px;
     margin-top: 10px;
     border-radius: 20px;
+    font-weight: bold;
 }
 
 /* cart */

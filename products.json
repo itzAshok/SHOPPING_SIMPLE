@@ -14,26 +14,86 @@
     {
         "id": 3,
         "name":" பிஸ்தா பருப்பு 250g ",
-        "price": 290,
+        "price": 300,
         "image": "image/pista.png"
     },
     {
         "id": 4,
         "name":" கருப்பு உலர் திராட்சை 250g",
-        "price": 200,
+        "price": 95,
         "image": "image/black_dry_grapes.png"
     },
     {
         "id": 5,
         "name":" உலர் திராட்சை 250g",
-        "price": 300,
+        "price": 100,
         "image": "image/green_dry_grapes.png"
     },
     {
         "id": 6,
         "name":" கருப்பு பேரிச்சம் பழம் 500g ",
-        "price": 200,
+        "price": 190,
         "image": "image/black_dates.png"
+    },
+    {
+        "id": 7,
+        "name":" சிவப்பு-மிளகாய் அரிசி வத்தல் 500g ",
+        "price": 100,
+        "image": "image/Red_chilli.png"
     }
-    
+    ,
+    {
+        "id": 8,
+        "name":"  பச்சை-மிளகாய் அரிசி வத்தல் 500g ",
+        "price": 100,
+        "image": "image/Green_chilli.png"
+    },
+    {
+        "id": 9,
+        "name":" பூண்டு அரிசி வத்தல் 500g ",
+        "price": 100,
+        "image": "image/Garlic_pappad.png"
+    },
+    {
+        "id": 10,
+        "name":"  சாதாரண அரிசி வத்தல் 500g ",
+        "price": 100,
+        "image": "image/Plain_pappad.png"
+    },
+    {
+        "id": 11,
+        "name":"  பானி பூரி 100g ",
+        "price": 30,
+        "image": "image/Pani_Puri.png"
+    },
+    {
+        "id": 12,
+        "name":" 5' inch அப்பளம் 500g ",
+        "price": 65,
+        "image": "image/3_inch.png"
+        },
+        {
+            "id": 13,
+            "name":" 3' inch அப்பளம் 500g ",
+            "price": 70,
+            "image": "image/5_inch.png"
+    },
+    {
+        "id": 13,
+        "name":" Bat அப்பளம் 500g ",
+        "price": 70,
+        "image": "image/Bat_Pappad.png"
+    },
+    {
+        "id": 14,
+        "name":" வெங்காய வத்தல் 400g ",
+        "price": 50,
+        "image": "image/Onion_ring.png"
+    },
+    {
+        "id": 14,
+        "name":"  பூண்டு வத்தல் 500g ",
+        "price": 50,
+        "image": "image/Garlic_ring.png"
+    }
 ]
