@@ -59,7 +59,8 @@ header{
 }
 .listProduct .item .price{
     letter-spacing: 7px;
-    font-size: small;
+    font-size: larger;
+    font-weight: bold;
 }
 .listProduct .item button{
     background-color:#eee ;
@@ -71,6 +72,8 @@ header{
     margin-top: 10px;
     border-radius: 20px;
     font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 /* cart */
@@ -100,6 +103,7 @@ body.showCart .container{
 .cartTab .btn{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    
 }
 .cartTab button{
     background-color: #E8BC0E;
@@ -107,9 +111,14 @@ body.showCart .container{
     font-family: Poppins;
     font-weight: 500;
     cursor: pointer;
+    border-radius: 20px;
 }
 .cartTab .close{
     background-color: #eee;
+}
+.cartTab .checkOut{
+    padding: 5px;
+    display: inline-table;
 }
 .listCart .item img{
     width: 100%;
